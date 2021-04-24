@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+html {
+  font-family: 'Vazir', serif;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1 {
+    font-size: 5rem;
+}
